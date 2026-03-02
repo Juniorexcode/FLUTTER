@@ -1,0 +1,16 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.jdt.ls.java.home": "C:\\Program Files\\Java\\jdk-22",
+    "java.import.gradle.java.home": "C:\\Program Files\\Java\\jdk-22",
+    "java.import.gradle.arguments": "-Dorg.gradle.java.home=\"C:\\Program Files\\Java\\jdk-22\"",
+    "java.gradle.buildServer.enabled": "off",
+    "java.import.gradle.enabled": false,
+    "java.import.exclusions": [
+        "**/android/**",
+        "**/build/**",
+        "**/node_modules/**",
+        "**/.metadata/**",
+        "**/archetype-resources/**",
+        "**/META-INF/maven/**"
+    ]
+}
